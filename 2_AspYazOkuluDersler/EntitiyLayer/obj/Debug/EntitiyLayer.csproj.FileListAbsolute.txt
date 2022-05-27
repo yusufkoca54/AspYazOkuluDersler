@@ -1,0 +1,6 @@
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\yusuf\OneDrive\Belgeler\MuratYucedagYoutube\2_AspYazOkuluDersler\EntitiyLayer\obj\Debug\EntitiyLayer.pdb
